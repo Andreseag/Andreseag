@@ -5,7 +5,7 @@ I'm a Frontend Developer working in Colombia.
 BIO
 
 - 🏢 I'm currently working at [Quick](https://quick.com.co/)
-- ⚙ I use daily: `JS`, `React`, `Redux`, `HTML`, `SASS`, `PYTHON`
+- ⚙ I use daily: `JS`, `React`, `Vue`, `Redux`, `HTML`, `SASS`, `PYTHON`
 - 💡 I'm learning Python
 - 📫 Reach me: [linkedin.com/andreseag](https://www.linkedin.com/in/andreseag/)
 - ⚡ Fun fact: I'm a huge fan of One Piece
