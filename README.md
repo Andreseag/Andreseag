@@ -4,7 +4,7 @@ I'm a Frontend Developer working in Colombia.
 
 BIO
 
-- 🏢 I'm currently working at [Quick](https://quick.com.co/)
+- 🏢 I'm currently working at [Neivor](https://neivor.com/) 🏡
 - ⚙ I use daily: `JS`, `React`, `Vue`, `Redux`, `HTML`, `SASS`, `PYTHON`
 - 💡 I'm learning Python
 - 📫 Reach me: [linkedin.com/andreseag](https://www.linkedin.com/in/andreseag/)
