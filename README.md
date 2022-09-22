@@ -4,7 +4,7 @@ I'm a Frontend Developer working in Colombia.
 
 BIO
 
-- 🏢 I'm currently working at [Neivor](https://neivor.com/) 🏡
+- 🏢 I'm currently working at [Katapult Commerce](https://www.katapultcommerce.com/) 🏡
 - ⚙ I use daily: `JS`, `React`, `Vue`, `Redux`, `HTML`, `SASS`, `Flutter`
 - 💡 I'm learning Python
 - 📫 Reach me: [linkedin.com/andreseag](https://www.linkedin.com/in/andreseag/)
