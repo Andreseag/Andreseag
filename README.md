@@ -6,7 +6,7 @@ BIO
 
 - 🏢 I'm currently working at [Katapult Commerce](https://www.katapultcommerce.com/) 🏡
 - ⚙ I use daily: `JS`, `React`, `Vue`, `Redux`, `HTML`, `SASS`, `Flutter`
-- 💡 I'm learning Ruby and Ruby ob Rails
+- 💡 I'm learning Ruby and Ruby on Rails
 - 📫 Reach me: [linkedin.com/andreseag](https://www.linkedin.com/in/andreseag/)
 - ⚡ Fun fact: I'm a huge fan of One Piece
 <!--
